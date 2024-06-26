@@ -1,4 +1,4 @@
-## Numeric Library for ESP32: Safe and Reliable Arithmetic Operations
+# Numeric Library for ESP32: Safe and Reliable Arithmetic Operations
 
 The ESP32 is a powerful microcontroller with ample computational resources, allowing for complex projects and sophisticated calculations. However, Arduino's diverse set of numeric types, while offering flexibility, can also introduce complexity and potential pitfalls for developers. Juggling `byte`, `int`, `long`, `float`, and `double`, each with its own range and behavior, can lead to subtle bugs, especially when dealing with overflow, underflow, or type conversions. 
 
